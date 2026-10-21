@@ -16,20 +16,17 @@ No booking forms, accounts or contact systems were copied.
 
 LOGO
 assets/card-shield.webp is a rectangular crop of the original supplied business
-card (Library libfile_e61b46161a9c8191aff2a902175e1c04). No generative changes.
+card. No generative changes.
 The public website has a different water-splash wordmark; both carry the same
 business identity and phone, but brand version preference needs owner review.
 
 AI CONCEPT IMAGERY
-assets/concept-0.webp: residential hero, Library libfile_3227e17677d081918a348b68b2e84a96
-assets/concept-1.webp: surface detail, Library libfile_33c004e0300481919fb374a9485e3239
-assets/concept-2.webp: restaurant hood, Library libfile_3753bbb1ca6c81919a127aef8b715089
-Generated through Higgsfield in the parent's user-authorized first batch of
-three. Optimized locally to WebP; no additional generation performed.
-These are explicitly labeled AI illustrations, not Dan The Wash employees,
-properties, customer jobs or evidence of outcomes.
-Earlier public-site illustrative images are retained locally as source assets,
-but are not used in the refined published homepage.
+concept-0.webp: residential washing illustration.
+concept-1.webp: surface cleaner illustration.
+concept-2.webp: restaurant hood cleaning illustration.
+Created with Higgsfield AI and optimized to WebP.
+These illustrations do not show Dan The Wash employees, customer properties,
+completed jobs or evidence of cleaning results.
 
 QR STATUS
 The supplied card's QR decodes to https://scanned.page/VyaM44 . On 21 October
