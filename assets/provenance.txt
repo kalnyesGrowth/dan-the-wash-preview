@@ -1,0 +1,47 @@
+Dan The Wash LLC — independent concept preview
+Research and retrieval: 21 October 2026
+
+IDENTITY
+User-provided business-card images in Library identify DAN THE WASH LLC,
+434-294-6227, residential/commercial power washing and exhaust hood cleaning.
+The printed licensed/insured statement has not been independently verified,
+so it is not used as a separate credential claim on this preview.
+
+PUBLIC COMPANY WEBSITE
+https://www.danthewash.com/
+Retrieved directly over HTTPS with HTTP 200 on 21 October 2026.
+Matching name and phone establish a strong link to the supplied card.
+Services and listed service communities are taken from this website.
+No booking forms, accounts or contact systems were copied.
+
+LOGO
+assets/card-shield.webp is a rectangular crop of the original supplied business
+card (Library libfile_e61b46161a9c8191aff2a902175e1c04). No generative changes.
+The public website has a different water-splash wordmark; both carry the same
+business identity and phone, but brand version preference needs owner review.
+
+AI CONCEPT IMAGERY
+assets/concept-0.webp: residential hero, Library libfile_3227e17677d081918a348b68b2e84a96
+assets/concept-1.webp: surface detail, Library libfile_33c004e0300481919fb374a9485e3239
+assets/concept-2.webp: restaurant hood, Library libfile_3753bbb1ca6c81919a127aef8b715089
+Generated through Higgsfield in the parent's user-authorized first batch of
+three. Optimized locally to WebP; no additional generation performed.
+These are explicitly labeled AI illustrations, not Dan The Wash employees,
+properties, customer jobs or evidence of outcomes.
+Earlier public-site illustrative images are retained locally as source assets,
+but are not used in the refined published homepage.
+
+QR STATUS
+The supplied card's QR decodes to https://scanned.page/VyaM44 . On 21 October
+2026 the browser redirected to https://scanned.page/deactivate and displayed
+"This QR code has been deactivated for some reason." No reactivation attempted.
+The provider did not reveal the intended final destination. The public company
+website separately returned HTTP 200; no underlying website outage is claimed.
+
+PREVIEW LIMITS
+Independent design concept; no endorsement or official status implied.
+No lead collection, analytics, embedded third-party widgets or booking.
+Phone links open the supplied and publicly matching business number.
+Quote conversation is explicitly suggested; no service guarantee implied.
+Prices, availability, credentials and insurance require owner confirmation.
+No Facebook page, Business Manager, private account or Chrome tab accessed.
